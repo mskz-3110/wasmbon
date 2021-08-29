@@ -1,0 +1,21 @@
+{
+  "name": "wasmbon",
+  "version": "0.0.1",
+  "description": "WebAssembly sugar.",
+  "main": "wasmbon.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskz-3110/wasmbon.git"
+  },
+  "keywords": [
+    "wasm",
+    "sugar"
+  ],
+  "author": "mskz-3110",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mskz-3110/wasmbon/issues"
+  },
+  "homepage": "https://github.com/mskz-3110/wasmbon#readme"
+}
